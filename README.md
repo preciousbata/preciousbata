@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Precious Batta.
 
-<!--
-**preciousbata/preciousbata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I am a passionate mobile application developer with 3 years of experience in cross-platform development using Flutter. I love building projects that solve real-world problems. Check out some of my work in the pinned section.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Dart, Python.
+- **Frameworks/Libraries:** Flutter.
+- **Tools:** Git, Docker, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------------------------------------------------------------------------------------------------------
+
+Thank you for visiting my portfolio! Feel free to explore my repositories and reach out if you'd like to collaborate on a project.
+
