@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Precious Batta.
 
-Welcome to my portfolio! I am a passionate mobile application developer with 3 years of experience in cross-platform development using Flutter. I love building projects that solve real-world problems. Check out some of my work in the pinned section.
+Welcome to my portfolio! I am a passionate mobile application developer with 3 years of experience in cross-platform mobile application development using Flutter. I love building projects that solve real-world problems. Check out some of my works in the pinned section.
 
 ## 🛠️ Skills
 - **Languages:** Dart, Python.
 - **Frameworks/Libraries:** Flutter.
-- **Tools:** Git, Docker, etc.
+- **Tools:** Git, etc.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
